@@ -2,7 +2,7 @@
 
 Brief Description
 -------------------
-This is part of the Final Project of the Bachelor's in Automotive Engineering, 2021/22 academic year, of the School of Technology and Management of the Polytechnic Institute of Leiria, Portugal.
+This is part of the Final Project of the Bachelor's degree in Automotive Engineering, 2021/22 academic year, of the School of Technology and Management of the Polytechnic Institute of Leiria, Portugal.
 
 The project  aims to contribute to the development of a low-cost, versatile, easily attachable/detachable, user-friendly equipment using commercial off-the-shelf components and an open-source software platform for reliable engine vibration data acquisitions.  
 
