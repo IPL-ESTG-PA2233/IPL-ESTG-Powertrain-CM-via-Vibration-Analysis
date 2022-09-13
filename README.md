@@ -14,7 +14,9 @@ The entire project's code was developed in two distinct programming languages: C
 
 This github has the migrated IIM-42352 library, hence, it is now ESP32-compatible as well as the C++ code used in the project.
 
-The Python scripts are also available.
+The Python scripts are also available:
+file_parser.py is responsible of creating the files with the raw data and respective timestamps.
+data_process_and_display.py is responsible for processing the raw data and ploting it using FFT and Spectrograms.
 
 Documentation
 --------------
