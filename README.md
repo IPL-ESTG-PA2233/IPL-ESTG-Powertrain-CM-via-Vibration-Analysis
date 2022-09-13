@@ -28,7 +28,8 @@ Version History
 Current version 1.0.0
 
 
-Developed by:
+Developers
+---------------
 Luís Barbosa 
 Nuno Pereira
 
