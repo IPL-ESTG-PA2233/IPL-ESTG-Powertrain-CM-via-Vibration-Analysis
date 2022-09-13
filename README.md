@@ -31,6 +31,7 @@ Current version 1.0.0
 Developers
 ---------------
 Luís Barbosa 
+
 Nuno Pereira
 
 
